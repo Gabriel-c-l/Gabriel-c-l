@@ -16,17 +16,17 @@ Formado pela Kensie Academy Brasil, no curso de Dev FullStack, Algumas das abili
 ## 🛠 Habilidades
 
 
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">]()
-[<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">]()
-[<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">]()
-[<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">]()
-[<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">]()
-[<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">]()
-[<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">]()
-[<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">]()
-[<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">]()
-[<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg">]()
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">]()
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">](https://git-scm.com/)
+[<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">](https://react.dev/)
+[<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">](https://sass-lang.com/)
+[<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">](https://nodejs.org/en)
+[<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">](https://www.mysql.com/)
+[<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">](https://www.typescriptlang.org/)
+[<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg">](https://github.com/)
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">](https://git-scm.com/)
 
 
 
