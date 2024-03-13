@@ -15,8 +15,8 @@ Formado pela Kensie Academy Brasil, no curso de Dev FullStack, Algumas das abili
 
 ## 🛠 Habilidades
 
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">](https://br.linkedin.com/in/gabriel-corr%C3%AAa-lopes-98296a228?trk=people-guest_people_search-card)
 
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">]([https://link-to-your-URL/](https://br.linkedin.com/in/gabriel-corr%C3%AAa-lopes-98296a228?trk=people-guest_people_search-card))
 
 
 
