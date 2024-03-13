@@ -15,7 +15,7 @@ Formado pela Kensie Academy Brasil, no curso de Dev FullStack, Algumas das abili
 
 ## 🛠 Habilidades
 
-![](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![https://readme.so/pt/editor](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
 ![](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
 ![](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
