@@ -24,9 +24,10 @@ Formado pela Kensie Academy Brasil, no curso de Dev FullStack, Algumas das abili
 ![](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 ![](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
 ![](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
-
-![](https://www.vectorlogo.zone/logos/github/github-tile.svg)
+![](https://www.vectorlogo.zone/logos/github/github-icon.svg)
 ![](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+
+
 
 
 
