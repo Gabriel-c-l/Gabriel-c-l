@@ -15,7 +15,18 @@ Formado pela Kensie Academy Brasil, no curso de Dev FullStack, Algumas das abili
 
 ## 🛠 Habilidades
 
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">](https://br.linkedin.com/in/gabriel-corr%C3%AAa-lopes-98296a228?trk=people-guest_people_search-card)
+
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">]()
+[<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">]()
+[<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">]()
+[<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">]()
+[<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">]()
+[<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">]()
+[<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">]()
+[<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">]()
+[<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">]()
+[<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg">]()
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">]()
 
 
 
