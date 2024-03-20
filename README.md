@@ -6,7 +6,7 @@
 ## 🚀 Sobre mim
 Sou um desenvolvedor Front-end aprendendo Back-end para um dia me tornar um dev FullStack 
 
-Aproveitando cada oportunidade que me foi fafa hoje trilho meu caminho na programação
+Aproveitando cada oportunidade que me foi entregue hoje trilho meu caminho na programação
 
 Formado pela Kensie Academy Brasil, no curso de Dev FullStack, Algumas das abilidades aprendidas no curso são 
 
