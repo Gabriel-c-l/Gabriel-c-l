@@ -40,8 +40,8 @@ Formado pela Kensie Academy Brasil, no curso de Dev FullStack, Algumas das abili
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/%F0%9F%9A%A7Portifolio_em_constru%C3%A7%C3%A3o%F0%9F%9A%A7-000?style=for-the-badge)](https://m3-s1-entrega-portfolio-template-main.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-corr%C3%AAa-lopes-98296a228?trk=people-guest_people_search-card)
+[![portfolio](https://img.shields.io/badge/%F0%9F%9A%A7Portifolio_em_constru%C3%A7%C3%A3o%F0%9F%9A%A7-000?style=for-the-badge)](https://m3-s1-entrega-portfolio-template-main.vercel.app/)
 [![linkedin](https://img.shields.io/badge/instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1gabriel_correa9/)
 
 
