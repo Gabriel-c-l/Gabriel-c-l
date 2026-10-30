@@ -24,23 +24,22 @@ Currently looking for opportunities to collaborate with international teams and 
 
 ## 🛠️ Tech Stack
 
-### Mobile Development
+### 📱 Mobile Development
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=react,ts,expo](https://skillicons.dev/icons?i=react,ts,expo)" alt="React Native, TypeScript and Expo" />
-\</p>
+![React Native, TypeScript and Expo](https://skillicons.dev/icons?i=react,ts,expo)
 
-### Backend Development
+### ⚙️ Backend Development
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=go,nodejs,express](https://skillicons.dev/icons?i=go,nodejs,express)" alt="Go, Node.js and Express" />
-\</p>
+![Go, Node.js and Express](https://skillicons.dev/icons?i=go,nodejs,express)
 
-### Frontend Development
+### 🎨 Frontend Development
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=js,react,html,css,sass](https://skillicons.dev/icons?i=js,react,html,css,sass)" alt="JavaScript, React, HTML, CSS and Sass" />
-\</p>
+![JavaScript, React, HTML, CSS and Sass](https://skillicons.dev/icons?i=js,react,html,css,sass)
+
+### 🗄️ Databases & Tools
+
+![PostgreSQL, MySQL, Git, GitHub, Postman, Figma and VS Code](https://skillicons.dev/icons?i=postgres,mysql,git,github,postman,figma,vscode)
+
 
 ### Databases & Tools
 
