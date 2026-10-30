@@ -1,58 +1,106 @@
+# Hi, I'm Gabriel! 👋
 
-# Olá, eu sou o Gabriel! 👋
+### Junior Software Developer
 
+💻 Software Developer based in Brazil
+🌎 Open to international remote opportunities
+🎓 Systems Analysis and Development student at UNISUL
 
+---
 
-## 🚀 Sobre mim
-Sou um desenvolvedor Front-end aprendendo Back-end para um dia me tornar um dev FullStack 
+## 🚀 About Me
 
-Aproveitando cada oportunidade que me foi entregue hoje trilho meu caminho na programação
+I'm a software developer with professional experience in mobile application development and backend engineering.
 
-Formado pela Kensie Academy Brasil, no curso de Dev FullStack, Algumas das abilidades aprendidas no curso são 
+Currently, I work at **Instramed**, developing and maintaining mobile applications using React Native, Expo and TypeScript.
 
-⬇⬇⬇⬇⬇⬇⬇⬇ 
+Previously, I worked at **Intelbras**, gaining experience in backend development with Go, microservices and REST APIs.
 
+I'm passionate about building reliable software, solving problems and continuously improving my engineering skills.
 
-## 🛠 Habilidades
+Currently looking for opportunities to collaborate with international teams and grow as a software engineer.
 
+---
 
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">](https://git-scm.com/)
-[<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">](https://react.dev/)
-[<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">](https://sass-lang.com/)
-[<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">](https://nodejs.org/en)
-[<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">](https://www.mysql.com/)
-[<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">](https://www.typescriptlang.org/)
-[<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg">](https://github.com/)
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">](https://git-scm.com/)
+## 🛠️ Tech Stack
 
+### Mobile Development
 
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=react,ts,expo](https://skillicons.dev/icons?i=react,ts,expo)" alt="React Native, TypeScript and Expo" />
+\</p>
 
+### Backend Development
 
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=go,nodejs,express](https://skillicons.dev/icons?i=go,nodejs,express)" alt="Go, Node.js and Express" />
+\</p>
 
+### Frontend Development
 
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=js,react,html,css,sass](https://skillicons.dev/icons?i=js,react,html,css,sass)" alt="JavaScript, React, HTML, CSS and Sass" />
+\</p>
 
+### Databases & Tools
 
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=postgres,mysql,git,github,postman,figma,vscode](https://skillicons.dev/icons?i=postgres,mysql,git,github,postman,figma,vscode)" alt="PostgreSQL, MySQL, Git, GitHub, Postman, Figma and VS Code" />
+\</p>
 
+---
 
+## 💼 Professional Experience
 
+**Instramed — Full Stack Developer Intern**
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-corr%C3%AAa-lopes-98296a228?trk=people-guest_people_search-card)
-[![portfolio](https://img.shields.io/badge/%F0%9F%9A%A7Portifolio_em_constru%C3%A7%C3%A3o%F0%9F%9A%A7-000?style=for-the-badge)](https://m3-s1-entrega-portfolio-template-main.vercel.app/)
-[![linkedin](https://img.shields.io/badge/instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1gabriel_correa9/)
+- Mobile application development with React Native, Expo and TypeScript.
+- REST API integration and feature implementation.
+- Authentication, navigation, notifications and state management.
+- Bug fixing and continuous application improvements.
 
+**Intelbras — Backend Development Apprentice**
 
-## 🧔🏻 Me 
-👩‍💻 Trabalho atualmente na Intelbras 
+- Backend development using Go (Golang).
+- REST API development and integration.
+- Microservices maintenance.
+- Unit testing and bug fixing.
 
-🧠 Estou aprendendo Back-End
+---
 
-👯‍♀️ Procuro colaborar em projetos fora do pais 
+## 🎓 Education
 
-🤔 Procuro ajuda com oque estudas em Back-end
+**Systems Analysis and Development**
+Universidade do Sul de Santa Catarina (UNISUL)
+2024 – 2027 | Currently pursuing
 
-💬 Me pergunte sobre Programação e Pokémon
+---
+
+## 🌍 Languages
+
+- Portuguese: Native
+- English: Intermediate (B2, self-assessed)
+
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in connecting with developers, collaborating on projects and exploring international opportunities.
+
+\<p>
+&#x20; \<a href="[https://www.linkedin.com/in/gabriel-corr%C3%AAa-lopes-98296a228/](https://www.linkedin.com/in/gabriel-corr%C3%AAa-lopes-98296a228/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/Gabriel-c-l](https://github.com/Gabriel-c-l)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />
+&#x20; \</a>
+&#x20; \<a href="mailto\:gabriel.c.lopes2004\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email" />
+&#x20; \</a>
+\</p>
+
+---
+
+⭐ *Always learning, building and improving.*
+
 
