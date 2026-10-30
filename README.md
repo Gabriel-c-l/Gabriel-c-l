@@ -3,7 +3,7 @@
 ### Junior Software Developer
 
 💻 Software Developer based in Brazil
-🌎 Open to international remote opportunities
+🌎 Open to Remote Opportunities in Brazil and Worldwide
 🎓 Systems Analysis and Development student at UNISUL
 
 ---
