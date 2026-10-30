@@ -86,17 +86,11 @@ Universidade do Sul de Santa Catarina (UNISUL)
 
 I'm always interested in connecting with developers, collaborating on projects and exploring international opportunities.
 
-\<p>
-&#x20; \<a href="[https://www.linkedin.com/in/gabriel-corr%C3%AAa-lopes-98296a228/](https://www.linkedin.com/in/gabriel-corr%C3%AAa-lopes-98296a228/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/Gabriel-c-l](https://github.com/Gabriel-c-l)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />
-&#x20; \</a>
-&#x20; \<a href="mailto\:gabriel.c.lopes2004\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email" />
-&#x20; \</a>
-\</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-corr%C3%AAa-lopes-98296a228/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-c-l)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.c.lopes2004@gmail.com)
 
 ---
 
